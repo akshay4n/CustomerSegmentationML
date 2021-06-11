@@ -1,0 +1,4 @@
+https://ieeexplore.ieee.org/document/9381869
+https://www.researchgate.net/publication/349094412_Incorporating_K-means_Hierarchical_Clustering_and_PCA_in_Customer_Segmentation
+https://www.researchgate.net/publication/349174900_The_practical_approach_in_Customers_segmentation_by_using_the_K-Means_Algorithm
+https://www.researchgate.net/publication/341745185_Determination_of_Customer_Satisfaction_using_Improved_K-means_algorithm
