@@ -9,7 +9,7 @@ Customer Segmentation using Unsupervised Machine Learning;K-means clustering alg
 into account, scaled data by logarithmic scaling.
 – Predicted relevant customer segmentation groups using k-means clustering algorithm
 
-![alt text](https://github.com/akshay4n/CustomerSegmentationML/tree/master/images/1.png)
+![alt text](https://github.com/akshay4n/CustomerSegmentationML/tree/master/images/1.png?raw=true)
 
 ## new
 can render the jupyter notebook in a react-app
