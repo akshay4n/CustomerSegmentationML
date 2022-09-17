@@ -28,7 +28,6 @@ Assigned clusters:<br>
 ![img1](/images/9.png)<br>
 Customer groups at k=4:<br>
 ![img1](/images/10.png)<br>
-![img1](/images/11.png)<br>
 Comparing results with different algorithms used:<br>
 ![img1](/images/12.png)<br>
 Colab notebook K-means code:<br>
